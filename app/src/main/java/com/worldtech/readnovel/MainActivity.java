@@ -14,5 +14,19 @@ public class MainActivity extends AppCompatActivity {
         //begin read novel
 
 
+
+
+
+
+
+
+
     }
+
+
+
+
+
+
+
 }
